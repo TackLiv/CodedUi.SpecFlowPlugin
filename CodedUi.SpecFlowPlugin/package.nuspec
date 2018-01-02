@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>$id$</id>
+        <version>1.0.0-beta</version>
+        <title>SpecFlow.CodedUI</title>
+        <authors>uzhe</authors>
+        <owners>$author$</owners>
+        <projectUrl>https://github.com/TackLiv/SpecFlow.CodedUI.git</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>$description$</description>
+        <releaseNotes>
+            Init beta.
+        </releaseNotes>
+        <copyright>$copyright$</copyright>
+        <tags></tags>
+    </metadata>
+    <files>
+        <file src="app.config.install.xdt" target="content"/>
+    </files>
+</package>
