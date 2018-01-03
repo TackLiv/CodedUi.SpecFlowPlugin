@@ -1,4 +1,4 @@
-﻿namespace TackLiv.CodedUI.SpecFlowPlugin
+﻿namespace TackLiv.CodedUi.SpecFlowPlugin
 {
     using System.CodeDom;
 

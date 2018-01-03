@@ -7,8 +7,8 @@
     <ProjectGuid>{BE389A35-3DE5-431D-84CB-87BF1E12E182}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TackLiv.CodedUI.SpecFlowPlugin</RootNamespace>
-    <AssemblyName>CodedUi.SpecFlowPlugin</AssemblyName>
+    <RootNamespace>TackLiv.CodedUi.SpecFlowPlugin</RootNamespace>
+    <AssemblyName>TackLiv.CodedUi.SpecFlowPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -67,7 +67,9 @@
     <None Include="app.config.install.xdt">
       <SubType>Designer</SubType>
     </None>
-    <None Include="package.nuspec" />
+    <None Include="package.nuspec">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

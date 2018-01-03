@@ -59,8 +59,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
-    <Reference Include="TackLiv.CodedUi.Fluent, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\TackLiv.CodedUi.Fluent.1.0.0-beta\lib\net45\TackLiv.CodedUi.Fluent.dll</HintPath>
+    <Reference Include="TackLiv.CodedUi.Fluent, Version=0.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TackLiv.CodedUi.Fluent.0.0.1\lib\net45\TackLiv.CodedUi.Fluent.dll</HintPath>
     </Reference>
     <Reference Include="TechTalk.SpecFlow, Version=2.2.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41, processorArchitecture=MSIL">
       <HintPath>..\packages\SpecFlow.2.2.1\lib\net45\TechTalk.SpecFlow.dll</HintPath>
@@ -92,7 +92,6 @@
       <DependentUpon>NotepadEditing.feature</DependentUpon>
     </Compile>
     <Compile Include="Steps\NotepadEditingSteps.cs" />
-    <Compile Include="SpecflowScenarioHooks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

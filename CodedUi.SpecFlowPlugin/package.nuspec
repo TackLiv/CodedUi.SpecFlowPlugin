@@ -2,15 +2,15 @@
 <package>
     <metadata>
         <id>$id$</id>
-        <version>1.0.0-beta</version>
-        <title>SpecFlow.CodedUI</title>
+        <version>0.0.1</version>
+        <title>CodedUi.SpecFlowPlugin</title>
         <authors>uzhe</authors>
         <owners>$author$</owners>
-        <projectUrl>https://github.com/TackLiv/SpecFlow.CodedUI.git</projectUrl>
+        <projectUrl>https://github.com/TackLiv/SpecFlow.CodedUI</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>$description$</description>
         <releaseNotes>
-            Init beta.
+            Init version.
         </releaseNotes>
         <copyright>$copyright$</copyright>
         <tags></tags>
