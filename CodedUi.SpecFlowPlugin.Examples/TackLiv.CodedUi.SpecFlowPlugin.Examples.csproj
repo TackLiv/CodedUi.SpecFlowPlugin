@@ -83,6 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DummyCodedUiTest.cs" />
+    <Compile Include="SpecFlowHooks.cs" />
     <Compile Include="Models\ModelBase.cs" />
     <Compile Include="Models\NotepadMainModel.cs" />
     <Compile Include="Models\PopupMessageModel.cs" />
